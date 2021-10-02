@@ -7,3 +7,6 @@
 
 # Build results
 artifacts/
+
+# Anything from rls
+voting/rls
